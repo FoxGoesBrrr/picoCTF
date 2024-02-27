@@ -4,13 +4,17 @@ When we open the challenge page, we will notice a milk glass emoji, which is a r
 
 In the properties tab, we don't find anything. Lets run `strings` command on this.
 
-    strings concat_v.png
-    strings concat_v.png | grep pic
-    strings concat_v.png | grep picoCTF
+```sh
+strings concat_v.png
+strings concat_v.png | grep pic
+strings concat_v.png | grep picoCTF
+```
 
 We can't find any data matching our search string. Lets use `zsteg` to analyse the image.
 
-    zsteg concat_v.png
+```sh
+zsteg concat_v.png
+```
 
 Ran into some memories issues with ruby but finally we will be able to get the flag from this command itself.
 
