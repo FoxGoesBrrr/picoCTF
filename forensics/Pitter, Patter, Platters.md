@@ -2,8 +2,10 @@
 
 We are asked to download a file named `suspicious.dd.sda1`, which is a file system image. Lets mount it and check what's in there.
 
-    mkdir sus
-    sudo mount suspicious.dd.sda1 ~/sus
+```sh
+mkdir sus
+sudo mount suspicious.dd.sda1 ~/sus
+```
 
 Here we will find a text file named `suspicious-file.txt` which has the following content.
 
@@ -11,12 +13,16 @@ Here we will find a text file named `suspicious-file.txt` which has the followin
 
 What are we missing here? We cannot access the `lost+found` directory. After checking all the files, I couldn't find anything. Lets try using `strings` command on this to see its data.
 
-    strings suspicious.dd.sda1
-    strings suspicious.dd.sda1 | grep picoCTF
+```sh
+strings suspicious.dd.sda1
+strings suspicious.dd.sda1 | grep picoCTF
+```
 
 We don't get anything meaningful here. For the second command, we don't even get any output. Lets try opening this with 16 bit encoding.
 
-    strings -e b suspicious.dd.sda1
+```sh
+strings -e b suspicious.dd.sda1
+```
 
 The output is as follows.
 
@@ -37,7 +43,9 @@ The output is as follows.
 
 Here we can see the flag but in reverse, so lets turn it.
 
-    strings -e b suspicious.dd.sda1 | rev
+```sh
+strings -e b suspicious.dd.sda1 | rev
+```
 
 The output is
 
