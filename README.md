@@ -5,7 +5,7 @@ My report for a few questions questions that I have solved on PicoCTF.
 
 My progess till now:
 * [binary](https://github.com/FoxGoesBrrr/picoCTF/tree/main/binary)
-  * [RPS]((https://github.com/FoxGoesBrrr/picoCTF/blob/main/binary/RPS.md))
+  * [RPS](https://github.com/FoxGoesBrrr/picoCTF/blob/main/binary/RPS.md)
   * [hijacking](https://github.com/FoxGoesBrrr/picoCTF/blob/main/binary/hijacking.md)
   * [two-sum](https://github.com/FoxGoesBrrr/picoCTF/blob/main/binary/two-sum.md)
 * [crypto](https://github.com/FoxGoesBrrr/picoCTF/tree/main/crypto)
