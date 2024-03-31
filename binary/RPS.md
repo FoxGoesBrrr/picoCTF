@@ -225,8 +225,8 @@ The computer played: rock
 You win! Play again?
 Congrats, here's the flag!
 picoCTF{50M3_3X7R3M3_1UCK_B69E01B8}
+```
 
 And now we got the flag!
-```
 
 Flag: `picoCTF{50M3_3X7R3M3_1UCK_B69E01B8}`
