@@ -1,7 +1,7 @@
 Removing unnecessary components from the file allows us to focus on reviewing the conversations. Upon examining a TCP conversation using command `tshark`, we encounter an useful string.
 
 ~~~shell
-$ tshark -r shark1.pcap -z "follow,tcp,ascii,5"
+tshark -r shark1.pcap -z "follow,tcp,ascii,5"
 
 	330
 HTTP/1.1 200 OK
