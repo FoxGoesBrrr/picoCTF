@@ -112,7 +112,7 @@ The Salsa20 stream cipher allows us to estimate the length of the plaintext inpu
 We can verify this functionality using netcat for testing purposes.
 
 ~~~shell
-$ nc mercury.picoctf.net 29858
+nc mercury.picoctf.net 29858
 Enter your text to be encrypted: picoCTFa
 b'\xf2\xfe\x8e\x18\xde\xa8K\xbc'
 b"o\n\xbb\x0c\x81\xed\xd4\xe9\xfa\xaf'e\xccs\xbd\xed\xf2\xc1BmR\x1f\xde\xb2R0W\xcc$\x99\x83\x8e\x90k\xe9\x13\x19\xbd\xf8I\xc1!\xbcgf\xa7\xa8\x92\x81"
