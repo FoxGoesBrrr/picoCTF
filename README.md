@@ -1,7 +1,7 @@
 
-# Pwn$t4r5 PicoCTF Write-Up
+# Pwn$t4r5 PicoCTF Practice Write-Up
 
-My report for a few questions questions that I have solved on PicoCTF.
+My report for a few questions questions that I have solved on PicoGYM.
 
 My progess till now:
 * [binary](https://github.com/FoxGoesBrrr/picoCTF/tree/main/binary)
