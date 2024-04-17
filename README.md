@@ -15,6 +15,7 @@ My progess till now:
   * [Compress and Attack](https://github.com/FoxGoesBrrr/picoCTF/blob/main/crypto/Compress%20and%20Attack.md)
   * [XtraORdinary](https://github.com/FoxGoesBrrr/picoCTF/blob/main/crypto/XtraORdinary.md)
   * [miniRSA](https://github.com/FoxGoesBrrr/picoCTF/blob/main/crypto/miniRSA.md)
+  * [transposition trail](https://github.com/FoxGoesBrrr/picoCTF/blob/main/crypto/transposition%20trail.md)
 * [forensics](https://github.com/FoxGoesBrrr/picoCTF/tree/main/forensics)
   * [Milkslap](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/Milkslap.md)
   * [Pitter, Patter, Platters](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/Pitter%2C%20Patter%2C%20Platters.md)
