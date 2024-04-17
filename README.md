@@ -22,6 +22,7 @@ My progess till now:
   * [hideme](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/hideme.md)
   * [Wireshark doo dooo do doo...](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/Wireshark%20doo%20dooo%20do%20doo...%20.md)
   * [Wireshark twoo twooo two twoo...](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/Wireshark%20twoo%20twooo%20two%20twoo...%20.md)
+  * [advanced-potion-making](https://github.com/FoxGoesBrrr/picoCTF/blob/main/forensics/advanced-potion-making.md)
 * [rev](https://github.com/FoxGoesBrrr/picoCTF/tree/main/rev)
   * [Picker I](https://github.com/FoxGoesBrrr/picoCTF/blob/main/rev/Picker%20I.md)
   * [timer](https://github.com/FoxGoesBrrr/picoCTF/blob/main/rev/timer.md)
